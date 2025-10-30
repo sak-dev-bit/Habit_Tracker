@@ -1,4 +1,5 @@
- Habit Tracker App
+
+# 🌱 Habit Tracker App
 
 ## 🎯 Project Goal
 
